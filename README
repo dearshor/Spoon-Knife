@@ -1,3 +1,9 @@
 All that's missing is the fork. Heh.
 
 Haha, I just forked the Spoon-Knife project from GitHub. :-)
+
+lsiksiwksws!@#444
+git checkout -b|-B <new_branch> [<start point>]
+This form switches branches by updating the index, working tree, and HEAD to reflect the specified branch.
+
+If -b is given, a new branch is created as if git-branch(1) were called and then checked out; in this case you can use the --track or --no-track options, which will be passed to git branch. As a convenience, --track without -b implies branch creation; see the description of --track below.
